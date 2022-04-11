@@ -1,0 +1,47 @@
+- title: "LIDA - Advanced Python Workshop"
+  date: "Oct 2021"
+  content:
+    - "Machine Learning overview"
+    - "Working with geospatial data"
+    - "Tips to speed up python codes"
+    - "Getting data from APIs"
+  notes:
+    - "/documents/teaching/trainings/02-LIDA_Python/presentation_ML.html"
+    - "/documents/teaching/trainings/02-LIDA_Python/presentation_speed-up.html"
+  url: "https://github.com/patricia-ternes/LIDA-python-workshop"
+
+- title: "LIDA - Intro to LaTeX Workshop"
+  date: "Oct 2021"
+  content:
+    - "LaTeX introduction"
+    - "Preamble and Packages"
+    - "Lists, Figures and Tables"
+    - "Maths"
+    - "BibTeX"
+  notes:
+    - "/documents/teaching/trainings/03-LIDA_LaTeX/presentation_intro_latex.html"
+  url: "https://github.com/patricia-ternes/LIDA-LaTeX-workshop"
+
+- title: "A brief introduction to LaTeX"
+  date: "Nov 2018"
+  content:
+    - "What is LaTeX?"
+    - "LaTeX versus Word Processors"
+    - "Document Classes. Types and some examples (Texts, Figures, Charts, Presentations, Posters)"
+    - "Introduction to ShareLaTeX"
+    - "Preamble and Packages"
+    - "Lists"
+    - "Figures"
+    - "Maths"
+    - "Bibliography and BibTeX"
+    - "Workshop notes"
+  notes:
+    - "/documents/teaching/trainings/01-Latex/trainingNotes.pdf"
+
+
+
+
+
+
+
+

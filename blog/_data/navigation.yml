@@ -1,0 +1,34 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Publications
+  url: "/publication/"
+  side: left
+
+- title: Presentations
+  url: "/presentations/"
+  side: left
+
+- title: Research Projects
+  url: "/research-projects/"
+  side: left
+
+- title: Teaching
+  url: "/teaching/"
+  side: left
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "CV & Contact"
+  url: "/cv/"
+  side: right
