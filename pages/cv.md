@@ -31,6 +31,20 @@ title: "Curriculum Vitae"
 
 ## Employment History
 
+| Start Date | End Date  | Job Title                              | Employer                                                |
+| ---------- | --------- | -------------------------------------- | ------------------------------------------------------- |
+| Jan 2022   | Ongoing   | Research Software Engineer             | University of Leeds, UK                                 |
+| Nov 2019   | Jan 2022  | Researcher in Simulating Urban Systems | University of Leeds, UK                                 |
+| Mar 2018   | Oct 2019  | Substitute Professor of Physics        | Federal Institute Catarinense, Brazil                   |
+| Aug 2014   | June 2018 | CNPq-funded doctoral student           | Federal University of Rio Grande do Sul, Brazil         |
+| Aug 2012   | July 2014 | CNPq-funded masters student            | Federal University of Santa Catarina                    |
+| Aug 2011   | June 2012 | Intern in Inclusive Education          | Laboratory School, Federal University of Santa Catarina |
+| Mar 2010   | Dec 2010  | Intern                                 | Science Room, Social Service of Commerce (SESC)         |
+| Mar 2009   | Dec 2009  | Intern                                 | Science Park, Federal University of Santa Catarina      |
+| Mar 2007   | Mar 2012  | Undergraduate student                  | Federal University of Santa Catarina                    |
+
+{% include _small-top-button.html %}
+
 * Jan 2022 - Present. Research Software Engineer, University of Leeds, UK.
 * Nov 2019 - Jan 2022. Researcher in Simulating Urban Systems, University of Leeds, UK.
 * Mar 2018 - Oct 2019. Substitute Professor of Physics, Federal Institute Catarinense, Brazil. More information
