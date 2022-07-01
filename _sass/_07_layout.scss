@@ -364,3 +364,16 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+/* page-row */
+// resolves annoying rem max-width in row
+
+.page-row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 80%;
+    display: table;
+}
