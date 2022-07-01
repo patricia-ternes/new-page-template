@@ -65,13 +65,13 @@ title: "Curriculum Vitae"
 
 ## Publications
 
-For a complete publication list see my [Publication homepage]("{{ site.baseurl }}/publications").
+For a complete publication list see my [Publication homepage]("{{ url }}/publications").
 
 {% include _small-top-button.html %}
 
 ## Campus and Invited talks
 
-For a complete presentation list see my [Presentation homepage]("{{ site.baseurl }}/presentations").
+For a complete presentation list see my [Presentation homepage]("{{ url }}/presentations").
 
 {% include _small-top-button.html %}
 
@@ -89,9 +89,9 @@ For a complete presentation list see my [Presentation homepage]("{{ site.baseurl
 
 ## Professional Training
 
-| Date | Subject Studied                                        | Provider                                 |
-| ---- | ------------------------------------------------------ | ---------------------------------------- |
-| 2022 | Scientific Computing with Python                       | freeCodeCamp.org                         |
+| Date | Subject Studied                                        | Provider                                |
+| ---- | ------------------------------------------------------ | --------------------------------------- |
+| 2022 | Scientific Computing with Python                       | freeCodeCamp.org                        |
 | 2022 | Fundamentals of Accelerated Computing with CUDA Python | NVIDIA DLI                              |
 | 2021 | Time Series Forecasting with Python                    | AI+ TRAINING                            |
 | 2021 | SWD6: High Performance Python                          | IT Training, University of Leeds        |
