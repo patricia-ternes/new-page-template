@@ -18,6 +18,10 @@
   url: "/teaching/"
   side: left
 
+- title: "CV & Contact"
+  url: "/cv/"
+  side: left
+
 #- title: Blog
 #  url: "/blog/"
 #  side: left
@@ -25,10 +29,8 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
-- title: "CV & Contact"
-  url: "/cv/"
-  side: right
+

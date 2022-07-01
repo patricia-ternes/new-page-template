@@ -1,3 +1,17 @@
+- title: "Software development - good practices and tips"
+  date: "March 2021"
+  content:
+    - "Software development in a nutshell"
+    - "Getting to grips with version control"
+    - "Getting better at Python"
+  notes:
+    - "https://raw.githack.com/ARCTraining/cdt_fluids_2022/main/slides/CDT-training_1.html"
+    - "https://raw.githack.com/ARCTraining/cdt_fluids_2022/main/slides/CDT-training_2-1.html"
+    - "https://raw.githack.com/ARCTraining/cdt_fluids_2022/main/slides/CDT-training_3-1.html"
+    - "https://raw.githack.com/ARCTraining/cdt_fluids_2022/main/slides/CDT-training_3-2.html"
+    - "https://raw.githack.com/ARCTraining/cdt_fluids_2022/main/slides/CDT-training_3-3.html"
+  url: "https://arctraining.github.io/cdt_fluids_2022/part3/overview3.html"
+
 - title: "LIDA - Advanced Python Workshop"
   date: "Oct 2021"
   content:

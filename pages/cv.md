@@ -4,7 +4,7 @@ permalink: /cv/
 title: "Curriculum Vitae"
 ---
 
-<a class="radius button" href="{{ site.url }}{{ site.baseurl }}/#/">PDF copy of my CV is available here ›</a>
+<a class="radius button" href="{{ site.url }}{{ site.baseurl }}/documents/cv/Patricia-Ternes_CV.pdf">PDF copy of my CV is available here ›</a>
 
 ## Skills
 
@@ -60,14 +60,15 @@ For a complete presentation list see my Presentation homepage
 
 ## Admin & Services
 
-* 2018 - 2019:	Commission Member, Course Board of the Bachelor of Control and Automation Engineering, Federal Institute Catarinense
-* 2018 - 2019:	Commission Member, Course Board of the Bachelor Computational Engineering, Federal Institute Catarinense
-* 2018 - 2019:	Commission Member, Structuring Teaching Nucleus (NDE) of the Bachelor of Control and Automation Engineering, Federal Institute Catarinense
-* 2018 - 2019:	Commission Member, Structuring Teaching Nucleus (NDE) of the Bachelor Computational Engineering, Federal Institute Catarinense
-* 2018	Organising committee, XI National Interdisciplinary Scientific and Technological Initiation Conference (6th-8th November, 2018)
+* 2018 - 2019: Commission Member, Course Board of the Bachelor of Control and Automation Engineering, Federal Institute Catarinense
+* 2018 - 2019: Commission Member, Course Board of the Bachelor Computational Engineering, Federal Institute Catarinense
+* 2018 - 2019: Commission Member, Structuring Teaching Nucleus (NDE) of the Bachelor of Control and Automation Engineering, Federal Institute Catarinense
+* 2018 - 2019: Commission Member, Structuring Teaching Nucleus (NDE) of the Bachelor Computational Engineering, Federal Institute Catarinense
+* 2018 Organising committee, XI National Interdisciplinary Scientific and Technological Initiation Conference (6th-8th November, 2018)
 
 ## Professional Training
 
+* 2022 - Fundamentals of Accelerated Computing with CUDA Python, NVIDIA DLI.
 * 2021 ‐ Time Series Forecasting with Python, AI+ TRAINING.
 * 2021 ‐ SWD6: High Performance Python, IT Training, University of Leeds.
 * 2021 ‐ SWD2: Version Control with Git / Github, IT Training, University of Leeds.
