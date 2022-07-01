@@ -92,22 +92,20 @@ For a complete presentation list see my [Presentation homepage]("{{ site.baseurl
 | Date | Subject Studied                                        | Provider                                 |
 | ---- | ------------------------------------------------------ | ---------------------------------------- |
 | 2022 | Scientific Computing with Python                       | freeCodeCamp.org                         |
-| 2022 | Fundamentals of Accelerated Computing with CUDA Python | NVIDIA DLI.                              |
-| 2021 | Time Series Forecasting with Python                    | AI+ TRAINING.                            |
-| 2021 | SWD6: High Performance Python                          | IT Training, University of Leeds.        |
-| 2021 | SWD2: Version Control with Git / Github                | IT Training, University of Leeds.        |
-| 2020 | HPC1: HPC Carpentry                                    | IT Training, University of Leeds.        |
-| 2020 | Java Programming: Solving Problems with Software       | Duke University.                         |
-| 2020 | Java Basic Programming III                             | Federal Institute of Rio Grande do Sul.  |
-| 2020 | Java Basic Programming II                              | Federal Institute of Rio Grande do Sul.  |
-| 2020 | Java Basic Programming I                               | Federal Institute of Rio Grande do Sul.  |
-| 2019 | Administrative Law                                     | Federal Institute of Rio Grande do Sul.  |
-| 2019 | Administration Fundamentals                            | Federal Institute of Rio Grande do Sul.  |
-| 2019 | Creating Educational Videos                            | Federal Institute of Rio Grande do Sul.  |
-| 2019 | Public Service Ethics                                  | Federal Institute of Rio Grande do Sul.  |
-| 2019 | Personalizing Teaching through Active Methodologies    | Federal Institute of Rio Grande do Sul.  |
-| 2018 | Use of technologies to support teaching                | Federal Institute Catarinense.           |
-| 2015 | Programming in CUDA                                    | Federal University of Rio Grande do Sul. |
-| 2011 | Initial Training of Tutors for distance education      | Federal University of Santa Catarina.    |
+| 2022 | Fundamentals of Accelerated Computing with CUDA Python | NVIDIA DLI                              |
+| 2021 | Time Series Forecasting with Python                    | AI+ TRAINING                            |
+| 2021 | SWD6: High Performance Python                          | IT Training, University of Leeds        |
+| 2021 | SWD2: Version Control with Git / Github                | IT Training, University of Leeds        |
+| 2020 | HPC1: HPC Carpentry                                    | IT Training, University of Leeds        |
+| 2020 | Java Programming: Solving Problems with Software       | Duke University                         |
+| 2020 | Java Basic Programming I, II & III                     | Federal Institute of Rio Grande do Sul  |
+| 2019 | Administrative Law                                     | Federal Institute of Rio Grande do Sul  |
+| 2019 | Administration Fundamentals                            | Federal Institute of Rio Grande do Sul  |
+| 2019 | Creating Educational Videos                            | Federal Institute of Rio Grande do Sul  |
+| 2019 | Public Service Ethics                                  | Federal Institute of Rio Grande do Sul  |
+| 2019 | Personalizing Teaching through Active Methodologies    | Federal Institute of Rio Grande do Sul  |
+| 2018 | Use of technologies to support teaching                | Federal Institute Catarinense           |
+| 2015 | Programming in CUDA                                    | Federal University of Rio Grande do Sul |
+| 2011 | Initial Training of Tutors for distance education      | Federal University of Santa Catarina    |
 
 {% include _small-top-button.html %}
