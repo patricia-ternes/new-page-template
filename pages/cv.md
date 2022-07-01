@@ -8,27 +8,27 @@ title: "Curriculum Vitae"
 
 ## Skills
 
-* Team-management
 * Public speaking
 * Teaching and mentoring
 * Code reading and debugging
 * Multiple coding languages
+* Software Development
 * Working to deadlines and under pressure
 
 ## Education
 
-|               Degree                | Institution                                                        | Year |
-| :---------------------------------: | ------------------------------------------------------------------ | ---- |
+| Degree                              | Institution                                                        | Year |
+| ----------------------------------- | ------------------------------------------------------------------ | ---- |
 | PhD in Science: Theoretical Physics | Physics Institute, Federal University of Rio Grande do Sul, Brazil | 2018 |
-|           MSc. in Physics           | Physics Department, Federal University of Santa Catarina, Brazil   | 2014 |
-|       Licenciatura in Physics       | Physics Department, Federal University of Santa Catarina, Brazil   | 2012 |
+| MSc. in Physics                     | Physics Department, Federal University of Santa Catarina, Brazil   | 2014 |
+| Licenciatura in Physics             | Physics Department, Federal University of Santa Catarina, Brazil   | 2012 |
 
 {% include _small-top-button.html %}
 
 ## Employment History
 
 | Start Date | End Date  | Job Title                              | Employer                                                |
-| ---------- | --------- | -------------------------------------- | ------------------------------------------------------- |
+| :--------- | --------- | -------------------------------------- | ------------------------------------------------------- |
 | Jan 2022   | Ongoing   | Research Software Engineer             | University of Leeds, UK                                 |
 | Nov 2019   | Jan 2022  | Researcher in Simulating Urban Systems | University of Leeds, UK                                 |
 | Mar 2018   | Oct 2019  | Substitute Professor of Physics        | Federal Institute Catarinense, Brazil                   |
@@ -65,13 +65,13 @@ title: "Curriculum Vitae"
 
 ## Publications
 
-For a complete publication list see my [Publication homepage]("{{ site.url }}{{ site.baseurl }}/publications").
+For a complete publication list see my [Publication homepage]("{{ site.baseurl }}/publications").
 
 {% include _small-top-button.html %}
 
 ## Campus and Invited talks
 
-For a complete presentation list see my [Presentation homepage]("{{ site.url }}{{ site.baseurl }}/presentations").
+For a complete presentation list see my [Presentation homepage]("{{ site.baseurl }}/presentations").
 
 {% include _small-top-button.html %}
 
