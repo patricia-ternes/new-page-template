@@ -21,7 +21,7 @@ format: curriculum
 		<article>
 			<header>
 				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-				<!-- <h1>{{ page.title }}</h1> -->
+				<h1>{{ page.title }}</h1>
 			</header>
 
 			{% if page.teaser %}
@@ -31,17 +31,10 @@ format: curriculum
 			{% endif %}
 
 			<div class="page-row">
-				<!-- <div class="medium-10 columns medium-push-2 t20">
-					{{ content }}
-				</div>
-				<div class="medium-8 columns medium-pull-10 t20">
-					{% include _sidebar_cv.html %}
-				</div> -->
-				<div class="medium-2 columns t20">
+				<div class="medium-3 columns t20">
 					{% include _sidebar_cv.html %}
 				</div>
-				<div class="medium-10 columns t20">
-					<h1>{{ page.title }}</h1>
+				<div class="medium-9 columns t20">
 					{{ content }}
 				</div>
 			</div>
