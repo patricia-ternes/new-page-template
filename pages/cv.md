@@ -17,6 +17,14 @@ title: "Curriculum Vitae"
 
 ## Education
 
+|               Degree                | Institution                                                        | Year |
+| :---------------------------------: | ------------------------------------------------------------------ | ---- |
+| PhD in Science: Theoretical Physics | Physics Institute, Federal University of Rio Grande do Sul, Brazil | 2018 |
+|           MSc. in Physics           | Physics Department, Federal University of Santa Catarina, Brazil   | 2014 |
+|       Licenciatura in Physics       | Physics Department, Federal University of Santa Catarina, Brazil   | 2012 |
+
+{% include _small-top-button.html %}
+
 * PhD in Science: Theoretical Physics, Physics Institute, Federal University of Rio Grande do Sul, Brazil (2018). More information
 * MSc. in Physics, Physics Department, Federal University of Santa Catarina, Brazil (2014). More information
 * Licenciatura in Physics, Physics Department, Federal University of Santa Catarina, Brazil (2012).
