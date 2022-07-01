@@ -65,7 +65,7 @@ title: "Curriculum Vitae"
 
 ## Publications
 
-For a complete publication list see my [Publication homepage]({{ site.url }}{{ site.baseurl }}{{/publications.md}}).
+For a complete publication list see my [Publication homepage](publications.md).
 
 {% include _small-top-button.html %}
 
