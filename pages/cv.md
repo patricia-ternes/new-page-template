@@ -25,9 +25,9 @@ title: "Curriculum Vitae"
 
 {% include _small-top-button.html %}
 
-* PhD in Science: Theoretical Physics, Physics Institute, Federal University of Rio Grande do Sul, Brazil (2018). More information
+<!-- * PhD in Science: Theoretical Physics, Physics Institute, Federal University of Rio Grande do Sul, Brazil (2018). More information
 * MSc. in Physics, Physics Department, Federal University of Santa Catarina, Brazil (2014). More information
-* Licenciatura in Physics, Physics Department, Federal University of Santa Catarina, Brazil (2012).
+* Licenciatura in Physics, Physics Department, Federal University of Santa Catarina, Brazil (2012). -->
 
 ## Employment History
 
@@ -45,7 +45,7 @@ title: "Curriculum Vitae"
 
 {% include _small-top-button.html %}
 
-* Jan 2022 - Present. Research Software Engineer, University of Leeds, UK.
+<!-- * Jan 2022 - Present. Research Software Engineer, University of Leeds, UK.
 * Nov 2019 - Jan 2022. Researcher in Simulating Urban Systems, University of Leeds, UK.
 * Mar 2018 - Oct 2019. Substitute Professor of Physics, Federal Institute Catarinense, Brazil. More information
 * Aug 2014 - June 2018. CNPq-funded doctoral student, Federal University of Rio Grande do Sul, Brazil.
@@ -53,24 +53,37 @@ title: "Curriculum Vitae"
 * Aug 2011 - June 2012. Intern, Inclusive Education, Laboratory School, Federal University of Santa Catarina. More information
 * Mar 2010 - Dec 2010. Intern, Science Room, Social Service of Commerce (SESC). More information
 * Mar 2009 - Dec 2009. Intern, Science Park, Federal University of Santa Catarina. More information
-* Mar 2007 - Mar 2012. Undergraduate student, Federal University of Santa Catarina.
+* Mar 2007 - Mar 2012. Undergraduate student, Federal University of Santa Catarina. -->
 
 ## Awards & Funding
 
 ### Awards
 
-* 2021		Title		Michael Beverley Associate Innovation Fellow
+| Date      | Type        | Description                                                                                          |
+| --------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| 2021      | Title       | Michael Beverley Associate Innovation Fellow                                                         |
+| 2014-2018 | Scholarship | Brazilian* National Council for Scientific and Technological Development (CNPq) Doctoral Scholarship |
+| 2012-2014 | Scholarship | Brazilian National Council for Scientific and Technological Development (CNPq) Masters Scholarship   |
+
+
+<!-- * 2021		Title		Michael Beverley Associate Innovation Fellow
 * 2014-2018		Scholarship		Brazilian National Council for Scientific and Technological Development (CNPq) Doctoral Scholarship
-* 2012-2014		Scholarship		Brazilian National Council for Scientific and Technological Development (CNPq) Masters Scholarship
+* 2012-2014		Scholarship		Brazilian National Council for Scientific and Technological Development (CNPq) Masters Scholarship -->
 
 ### Research funding as principal investigator: Total £ 35,000
 
-* 2021		£ 18,500		Modelling ambient populations under different restriction schemes.
+| Year | Award      | Project Title                                                                                            | Funder                                                                                                         |
+| ---- | ---------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2021 | £ 18,500   | Modelling ambient populations under different restriction schemes.                                       | ESRC Impact Acceleration Account (ESRC IAA), UK                                                                |
+| 2019 | BRL 58,600 | Nanoconfined water diffusion: the role of friction and the effects of temperature and density water.     | Brazilian National Council for Scientific and Technological Development CNPq (Grant no. 157758/2019-2), Brazil |
+| 2019 | BRL 58,850 | Agents with psychological characteristics: the impact of network topology on an artificial stock market. | Brazilian National Council for Scientific and Technological Development CNPq (Grant no. 170380/2018-1), Brazil |
+
+<!-- * 2021		£ 18,500		Modelling ambient populations under different restriction schemes.
 ESRC Impact Acceler‐ ation Account (ESRC IAA), UK
 * 2019		BRL 58,600		Nanoconfined water diffusion: the role of friction and the effects of temperature and density water.
 Brazilian National Council for Scientific and Technological Development CNPq (Grant no. 157758/2019-2), Brazil
 * 2019		BRL 58,850		Agents with psychological characteristics: the impact of network topology on an artificial stock market.
-Brazilian National Council for Scientific and Technological Development CNPq (Grant no. 170380/2018-1), Brazil
+Brazilian National Council for Scientific and Technological Development CNPq (Grant no. 170380/2018-1), Brazil -->
 
 ## Publications
 
