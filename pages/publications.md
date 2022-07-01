@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-permalink: /publication.html
+permalink: /publication/
 title: "Publications"
 ---
 <!-- This page is automatically generated using entries from the file "_data/publications.yml" 
