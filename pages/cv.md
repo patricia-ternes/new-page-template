@@ -65,13 +65,14 @@ title: "Curriculum Vitae"
 
 ## Publications
 
-For a complete publication list see my [Publication homepage]({{ site.url }}{{ site.baseurl }}{{/publication/}}).
+For a complete publication list see my [Publication homepage]({{ site.url }}{{ site.baseurl }}{{/publications.md}}).
 
 {% include _small-top-button.html %}
 
 ## Campus and Invited talks
 
-For a complete presentation list see my [Presentation homepage]("{{ site.url }}{% link pages/publications.md %}").
+For a complete presentation list see my [Presentation homepage](presentations.md).
+
 
 {% include _small-top-button.html %}
 
